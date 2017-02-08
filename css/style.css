@@ -1,0 +1,12 @@
+.sidebar {
+  float: left;
+  text-align: center;
+  font-family: sans-serif;
+  background-color: grey;
+  margin-right: 5px;
+}
+
+img {
+  float: right;
+  width: 30%;
+}
